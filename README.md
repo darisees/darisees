@@ -1,4 +1,4 @@
-### Hi there, I'm [Haidar] 👋
+### Hi there, I'm Haidar 👋
 
 I'm a passionate learner in **Cloud Computing, Network Engineering, and UI/UX Design**. I enjoy exploring new technologies and building projects that solve real-world problems.
 
