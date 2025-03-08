@@ -4,7 +4,7 @@ I'm a passionate learner in **Cloud Computing, Network Engineering, and UI/UX De
 
 - 🌍 I'm based in Indonesia
 - 🌱 I’m currently learning **Cloud Computing (AWS), Network Engineering, and UI/UX Design**
-- 📫 How to reach me: **[dar.haidaryahya@gmail.com]**
+- 📫 How to reach me: [dar.haidaryahya@gmail.com]
 - 🎓 I’m currently studying at [SMK Telkom Malang](https://smktelkom-mlg.sch.id/)
 
 ---
