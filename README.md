@@ -35,5 +35,3 @@ I'm a passionate learner in **Cloud Computing, Network Engineering, and UI/UX De
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisees&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darisees&layout=compact&theme=dark)
-
----
