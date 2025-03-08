@@ -12,7 +12,7 @@ I'm a passionate learner in **Cloud Computing, Network Engineering, and UI/UX De
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidaryahyaa/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darisee_/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/700702023548665907darisee_)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/700702023548665907)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/darisees)
 
 ---
@@ -33,7 +33,7 @@ I'm a passionate learner in **Cloud Computing, Network Engineering, and UI/UX De
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darisees&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darisees&layout=compact&theme=dark)
 
 ---
