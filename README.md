@@ -1,11 +1,11 @@
 ### Hi there, I'm Haidar
 
-I'm a passionate learner in **Cloud Computing, Network Engineering, and UI/UX Design**. I enjoy exploring new technologies and building projects.
+I'm a passionate learner in **Cloud Computing and Network Engineering**. I enjoy exploring new technologies and building projects.
 
 - 🌍 I'm based in Indonesia
-- 🌱 I’m currently learning **Cloud Computing (AWS), Network Engineering, and UI/UX Design**
+- 🎓 I’m currently studying at [Universitas Brawijaya](https://www.ub.ac.id/)
+- 🌱 I’m currently learning **Cloud Computing (AWS), Network Engineering, Data Structures & Algorithms, Database Systems (MySQL), and Computer Architecture**
 - 📫 How to reach me: dar.haidaryahya@gmail.com
-- 🎓 I’m currently studying at [SMK Telkom Malang](https://smktelkom-mlg.sch.id/)
 
 ---
 
