@@ -53,7 +53,7 @@ Currently, I'm focusing on:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <div style="padding: 18px;">
+      <div style="padding: 16px;">
         <h3>Cloud Computing</h3>
         <p>
           Learning cloud fundamentals, infrastructure concepts, deployment workflows,
@@ -62,7 +62,7 @@ Currently, I'm focusing on:
       </div>
     </td>
     <td width="50%" valign="top">
-      <div style="padding: 18px;">
+      <div style="padding: 16px;">
         <h3>Network Engineering</h3>
         <p>
           Interested in networking fundamentals, routing, protocols,
@@ -73,7 +73,7 @@ Currently, I'm focusing on:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div style="padding: 18px;">
+      <div style="padding: 16px;">
         <h3>Database Systems</h3>
         <p>
           Practicing relational database design, SQL queries, normalization,
@@ -82,7 +82,7 @@ Currently, I'm focusing on:
       </div>
     </td>
     <td width="50%" valign="top">
-      <div style="padding: 18px;">
+      <div style="padding: 16px;">
         <h3>IoT & Embedded Systems</h3>
         <p>
           Exploring microcontrollers, sensors, automation, monitoring systems,
@@ -97,17 +97,17 @@ Currently, I'm focusing on:
 
 ## Featured Projects
 
-- #### BRECO — Brawijaya Smart Energy Conservation
+### BRECO — Brawijaya Smart Energy Conservation
 
-  IoT-based smart energy and environment monitoring system concept for efficient classroom energy usage.
+IoT-based smart energy and environment monitoring system concept for efficient classroom energy usage.
 
-- #### Database & Web Projects
+### Database & Web Projects
 
-  SQL, PHP, and database-driven web implementation based on academic case studies.
+SQL, PHP, and database-driven web implementation based on academic case studies.
 
-- #### C++ Programming Projects
+### C++ Programming Projects
 
-  Data structure implementation, menu-based programs, and basic system logic.
+Data structure implementation, menu-based programs, and basic system logic.
 
 ---
 
