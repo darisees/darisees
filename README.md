@@ -1,42 +1,146 @@
-### Hi there, I'm Haidar
+<div align="center">
 
-I'm a passionate learner in **Cloud Computing and Network Engineering**. I enjoy exploring new technologies and building projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF2D95&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Haidar;Cloud+Computing+Enthusiast;Network+Engineering+Learner;IoT+%26+Software+Development+Explorer" alt="Typing SVG" />
 
-- 🌍 I'm based in Indonesia
-- 🎓 I’m currently studying at [Universitas Brawijaya](https://www.ub.ac.id/)
-- 🌱 I’m currently learning **Cloud Computing (AWS), Network Engineering, Data Structures & Algorithms, Database Systems (MySQL), and Computer Architecture**
-- 📫 How to reach me: dar.haidaryahya@gmail.com
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=darisees&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidaryahyaadarisees/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darisee_/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/700702023548665907darisee_)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/darisees)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dariseee)
+</div>
 
 ---
 
-### Skills & Tools:
-#### Programming Languages:
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+## About Me
 
-#### Tools & Platforms:
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+Hi, I'm **Haidar**, an Informatics/Computer Engineering student at **Universitas Brawijaya**.
+
+I'm interested in technology that works behind the scenes, especially **cloud computing**, **computer networks**, **database systems**, **IoT**, and **software development**. I enjoy learning by building projects, exploring new tools, and turning technical ideas into practical solutions.
+
+Currently, I'm focusing on:
+
+- Cloud Computing fundamentals
+- Network Engineering and infrastructure
+- Database Systems and SQL
+- IoT and Embedded Systems
+- Software Development basics
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darisees&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darisees&layout=compact&theme=tokyonight)
+## Skills & Tools
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,docker,figma" />
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,arduino,raspberrypi,ansible" />
+</p>
+
+---
+
+## Main Interests
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 18px;">
+        <h3>Cloud Computing</h3>
+        <p>
+          Learning cloud fundamentals, infrastructure concepts, deployment workflows,
+          and how cloud services support scalable systems.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 18px;">
+        <h3>Network Engineering</h3>
+        <p>
+          Interested in networking fundamentals, routing, protocols,
+          Linux networking, and real-world infrastructure design.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 18px;">
+        <h3>Database Systems</h3>
+        <p>
+          Practicing relational database design, SQL queries, normalization,
+          and data management using MySQL/MariaDB.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 18px;">
+        <h3>IoT & Embedded Systems</h3>
+        <p>
+          Exploring microcontrollers, sensors, automation, monitoring systems,
+          and smart technology solutions.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+- #### BRECO — Brawijaya Smart Energy Conservation
+
+  IoT-based smart energy and environment monitoring system concept for efficient classroom energy usage.
+
+- #### Database & Web Projects
+
+  SQL, PHP, and database-driven web implementation based on academic case studies.
+
+- #### C++ Programming Projects
+
+  Data structure implementation, menu-based programs, and basic system logic.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darisees&theme=radical" alt="GitHub Profile Summary" />
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darisees&theme=radical" alt="GitHub Stats" />
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darisees&theme=radical" alt="Top Languages" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:dar.haidaryahya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/haidaryahyaa/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/darisee_/"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<p>
+  © 2026 Haidar. Designed and maintained with care.
+</p>
+
+</div>
